@@ -18,15 +18,16 @@ Analisar o desempenho de vendas de uma rede de varejo americana entre 2014 e 201
 - Modelagem de dados (tabela de calendário e relacionamentos)
 
 ## Arquivos do Projeto
-- `Superstore_Sales_Dashboard.pbix` → Arquivo principal do Power BI
-- `Dados/` → Arquivo original do dataset
-
+- Dashboard.jpg
+- Dashboard2.jpg
+- Dashboard3.jpg
+- README.md
+- Sample - Superstore.xls
+- superstore-sales-powerbi.pbix
+  
 ## Como Visualizar
 1. Baixe o arquivo `.pbix`
 2. Abra no Power BI Desktop
-3. Ou acesse a versão online: [insira o link do Power BI Service]
-
-
 
 ---
 
